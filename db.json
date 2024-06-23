@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "comment": "Mejorar el menu"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
